@@ -1,0 +1,16 @@
+C:\Users\Rosana\source\repos\EPAFernando\bin\Debug\net8.0-windows\EPAFernando.exe
+C:\Users\Rosana\source\repos\EPAFernando\bin\Debug\net8.0-windows\EPAFernando.deps.json
+C:\Users\Rosana\source\repos\EPAFernando\bin\Debug\net8.0-windows\EPAFernando.runtimeconfig.json
+C:\Users\Rosana\source\repos\EPAFernando\bin\Debug\net8.0-windows\EPAFernando.dll
+C:\Users\Rosana\source\repos\EPAFernando\bin\Debug\net8.0-windows\EPAFernando.pdb
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.Form1.resources
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.csproj.GenerateResource.cache
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.AssemblyInfoInputs.cache
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.AssemblyInfo.cs
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.csproj.CoreCompileInputs.cache
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.dll
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\refint\EPAFernando.dll
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.pdb
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\EPAFernando.genruntimeconfig.cache
+C:\Users\Rosana\source\repos\EPAFernando\obj\Debug\net8.0-windows\ref\EPAFernando.dll
